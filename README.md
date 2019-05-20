@@ -7,3 +7,6 @@ http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/mai
 
 English test:
 http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/english_teachers.html
+
+Math test:
+http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/math_teachers.html
