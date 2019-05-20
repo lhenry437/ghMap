@@ -10,7 +10,7 @@ http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/eng
 Math test:
 http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/math_teachers.html
 
-Science test:
+Science test:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/science_teachers.html
 
 Language test:
 
