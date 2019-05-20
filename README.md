@@ -18,4 +18,4 @@ History page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/bl
 
 Health page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/health_teachers.html
 
-Art test:
+Art page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/art_teachers.html
