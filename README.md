@@ -14,8 +14,8 @@ Science page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/bl
 
 Language page: http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/language_teachers.html
 
-History test:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/history_teachers.html
+History page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/history_teachers.html
 
-Health test:
+Health page:http://htmlpreview.github.io/?https://github.com/lhenry437/ghMap/blob/master/health_teachers.html
 
 Art test:
